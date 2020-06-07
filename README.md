@@ -9,6 +9,7 @@
 
 1，Unsupervised learning-based deformable registration of temporal chest radiographs to detect interval change. SPIE Medical Imaging 2020.
 文章链接为：https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11313/113132X/Unsupervised-learning-based-deformable-registration-of-temporal-chest-radiographs-to/10.1117/12.2549211.short?SSO=1
+
 2，A FCN-based Unsupervised Learning Model for Deformable Chest CT Image Registration. IEEE NSS/MIC 2019. 文章链接为：https://ieeexplore.ieee.org/document/9059976
 
 另外，如果你对我的项目感兴趣，可以查看我的B站视频，那里了解的更详细清楚，欢迎关注我，与我一起互动交流。视频链接为：https://www.bilibili.com/video/BV1Cf4y1276w 。
