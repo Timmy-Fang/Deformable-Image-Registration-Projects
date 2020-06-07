@@ -16,8 +16,8 @@
 
 最后，希望对你有所帮助，谢谢，祝科研顺利！
 
-[1] https://www.dir-lab.com/ 
-[2] https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11313/113132X/Unsupervised-learning-based-deformable-registration-of-temporal-chest-radiographs-to/10.1117/12.2549211.short?SSO=1
-[3] https://ieeexplore.ieee.org/document/9059976
-[4] https://www.bilibili.com/video/BV1Cf4y1276w
-[5] https://blog.csdn.net/weixin_41699811
+[1]: https://www.dir-lab.com/ "DIR-Lab"
+[2]: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11313/113132X/Unsupervised-learning-based-deformable-registration-of-temporal-chest-radiographs-to/10.1117/12.2549211.short?SSO=1 "Unsupervised learning-based deformable registration of temporal chest radiographs to detect interval change. SPIE Medical Imaging 2020."
+[3]: https://ieeexplore.ieee.org/document/9059976 "A FCN-based Unsupervised Learning Model for Deformable Chest CT Image Registration. IEEE NSS/MIC 2019."
+[4]: https://www.bilibili.com/video/BV1Cf4y1276w "这里是链接"
+[5]: https://blog.csdn.net/weixin_41699811 "这里是链接"
